@@ -1,5 +1,5 @@
-*ENTER_YOUR_CLIENT_ID*
-*ENTER_YOUR_SECRET*
+ba305ffa-7a39-4318-b845-b48979bedddf
+ezvQCKF948{[:qjulSUT69|
 
 The first two lines of this file should be edited to contain the
 client application ID and client secret, each on a single line with
